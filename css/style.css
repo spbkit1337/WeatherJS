@@ -1,0 +1,10 @@
+.weather_info {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10%;    
+}
+
+.icon {
+    width: 32px;
+}
